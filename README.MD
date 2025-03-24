@@ -41,4 +41,8 @@ Para rodar o programa, execute o seguinte comando no terminal:
 
 ```bash
 python main.py
+```
 
+
+### Para rodar testes execute:
+```python -m unittest discover tests```
